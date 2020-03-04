@@ -11,3 +11,9 @@ A limitation of data scraping from Twitter is that API keys are only released to
 I also mapped the tweets by geographic location to assess the sample population. Unsurprisingly, a large number of tweets were concentrated in North America. 
 
 Ideally, I hope to scrape a larger sample to pinpoint trends in keywords over time, commonly used phrases, and potentially analyze these narratives with more meticulous detail. 
+
+![Word Cloud](https://github.com/deepssquared/whyididntreport/blob/master/word_cloud_medical.png)
+
+![Word Cloud](https://github.com/deepssquared/whyididntreport/blob/master/Rplot.png)
+
+![Map with Tweets](https://github.com/deepssquared/whyididntreport/blob/master/map.png)
