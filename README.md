@@ -12,8 +12,13 @@ I also mapped the tweets by geographic location to assess the sample population.
 
 Ideally, I hope to scrape a larger sample to pinpoint trends in keywords over time, commonly used phrases, and potentially analyze these narratives with more meticulous detail. 
 
-![Word Cloud](https://github.com/deepssquared/whyididntreport/blob/master/word_cloud_medical.png)
+## Overall Word Cloud
 
 ![Word Cloud](https://github.com/deepssquared/whyididntreport/blob/master/Rplot.png)
 
+## Word Cloud focused on Sexual Violence in Healthcare
+
+![Word Cloud](https://github.com/deepssquared/whyididntreport/blob/master/word_cloud_medical.png)
+
+## Tweets Mapped Worldwide
 ![Map with Tweets](https://github.com/deepssquared/whyididntreport/blob/master/map.png)
